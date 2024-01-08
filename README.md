@@ -10,7 +10,7 @@ Beta - Removed
 *due to the fact MacBooks don't work will version 1.1 servers so here are some sites*
  <br>
  -INTERSTELLAR- <br>
-<a href="https://recketsciencepdf.vercel.app">Interstellar 1</a>
+<a href="https://rocketsciencepdf.vercel.app">Interstellar 1</a>
 <br>
 <a href="https://yjmc.fr.to">Interstellar 2</a>
 <br>
